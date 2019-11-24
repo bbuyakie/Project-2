@@ -19,3 +19,16 @@
 	margin-right: auto;
 	width: 50%;
 }
+
+.byline {
+	font-family: Roboto,sans-serif;
+	color: black;
+	font-size:57%;
+	padding-left: 260px;
+	padding-right: 265px;
+}
+
+.body {
+	padding-left: 260px;
+	padding-right: 265px;
+}

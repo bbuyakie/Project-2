@@ -11,22 +11,26 @@
 	font-size: 170%;
 	padding-left: 260px;
 	padding-right: 265px;
+	text-align: center;
 }
 
 .chart {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	padding-right: 15px;
+	padding-bottom: 80px;
 	width: 50%;
-
+	float: left;
 }
 
 .byline {
 	font-family: Roboto,sans-serif;
 	color: black;
 	font-size:57%;
-	padding-left: 260px;
+	padding-left: 335px;
 	padding-right: 265px;
+
 }
 
 .body {
@@ -39,4 +43,20 @@
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.caption {
+	font-family: Roboto,sans-serif;
+	color: grey;
+	font-size:60%;
+	padding-left: 415px;
+	padding-right: 415px;
+}
+
+.byline2 {
+	font-family: Roboto,sans-serif;
+	color: #BFBEBE;
+	font-size:57%;
+	padding-left: 415px;
+	padding-right: 415px;
 }
